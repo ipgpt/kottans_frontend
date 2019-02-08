@@ -31,11 +31,16 @@ I don't know what to say, just ready to move for the next tasks =)
 ### Describe your impressions about learned materials
 Full day I have dived in it and now I know basic useful commands.
 
+## Git Collaboration
 
+### 1. Finish [What is Version Control](https://classroom.udacity.com/courses/ud123)
 
+![What is Version Control](/task_git_collaboration/udacity-version-control.jpg)
 
+### 2. Finish [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 
+![GitHub & Collaboration](/task_git_collaboration/udacity-github-collaboration.jpg)
 
+### Describe your impressions about learned materials
 
-
-
+Well...I carried away with some commands and after that had some problems, but now I know better how to use git.
