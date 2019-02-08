@@ -24,9 +24,7 @@ I don't know what to say, just ready to move for the next tasks =)
 
 ### 1. Finish [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
-![Command Line 1](/task_linux_cli/codecademy-command-line1.jpg)
-
-![Command Line 2](/task_linux_cli/codecademy-command-line2.jpg)
+![Command Line](/task_linux_cli/codecademy-learn-comand-line.jpg)
 
 ### Describe your impressions about learned materials
 Full day I have dived in it and now I know basic useful commands.
