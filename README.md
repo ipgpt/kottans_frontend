@@ -44,3 +44,17 @@ Full day I have dived in it and now I know basic useful commands.
 ### Describe your impressions about learned materials
 
 Well...I carried away with some commands and after that had some problems, but now I know better how to use git.
+
+## Intro to HTML and CSS
+
+### 1. Finish [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
+![Intro to HTML & CSS](/task_html_css_intro/udacity-html-css.jpg)
+
+### 2. Finish [HTML Academy: first two sections](https://htmlacademy.ru)
+
+![HTML Academy: first two sections](/task_html_css_intro/html-academy.jpg)
+
+### Describe your impressions about learned materials
+
+This step was easy and fun B-)
