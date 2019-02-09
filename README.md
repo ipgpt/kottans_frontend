@@ -58,3 +58,14 @@ Well...I carried away with some commands and after that had some problems, but n
 ### Describe your impressions about learned materials
 
 This step was easy and fun B-)
+
+## Responsive Web Design
+
+### 1. IN PROGRESS [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+
+![Responsive Web Design Fundamentals](/task_git_collaboration/udacity-responsive.jpg)
+
+### 2. Finish [Flexbox Froggy](http://flexboxfroggy.com)
+
+![Flexbox Froggy](/task_responsive_web_design/flexbox-froggy.jpg)
+
