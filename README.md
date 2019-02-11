@@ -1,5 +1,6 @@
 # kottans_frontend
-kottans frontend course [p2p 2019]
+
+P2P course [2019]
 
 ## Git and GitHub
 
@@ -8,6 +9,7 @@ kottans frontend course [p2p 2019]
 ![How to use Git and GitHub](/task_git_intro/udacity-How-to-Use-Git-and-GitHub.jpg)
 
 ### 2. Finish [try.github.io](https://try.github.io)
+
 P/S: It doesn't work now, but I did it before (May'18) and saved screenshot
 
 ![Try github](/task_git_intro/try-github.jpg)
@@ -18,6 +20,7 @@ P/S: It doesn't work now, but I did it before (May'18) and saved screenshot
 ![learngitbranching2](/task_git_intro/learngitbranching2.jpg)
 
 ### Describe your impressions about learned materials
+
 I don't know what to say, just ready to move for the next tasks =)
 
 ## Linux CLI and HTTP
@@ -27,6 +30,7 @@ I don't know what to say, just ready to move for the next tasks =)
 ![Command Line](/task_linux_cli/codecademy-learn-comand-line.jpg)
 
 ### Describe your impressions about learned materials
+
 Full day I have dived in it and now I know basic useful commands.
 
 ## Git Collaboration
@@ -56,3 +60,17 @@ Well...I carried away with some commands and after that had some problems, but n
 ### Describe your impressions about learned materials
 
 This step was easy and fun B-)
+
+## Responsive Web Design
+
+### 1. Finish [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+
+![Responsive Web Design Fundamentals](/task_responsive_web_design/udacity-responsive.jpg)
+
+### 2. Finish [Flexbox Froggy](http://flexboxfroggy.com)
+
+![Flexbox Froggy](/task_responsive_web_design/flexbox-froggy.jpg)
+
+### Describe your impressions about learned materials
+
+Really interesting information, some kind of magic. For now, just need to practice.
