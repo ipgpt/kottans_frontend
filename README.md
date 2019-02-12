@@ -14,7 +14,7 @@ P/S: It doesn't work now, but I did it before (May'18) and saved screenshot
 
 ![Try github](/task_git_intro/try-github.jpg)
 
-### Extra: [learngitbranching](https://learngitbranching.js.org)
+### Optional 1. Finish [learngitbranching](https://learngitbranching.js.org)
 
 ![learngitbranching1](/task_git_intro/learngitbranching.jpg)
 ![learngitbranching2](/task_git_intro/learngitbranching2.jpg)
@@ -56,6 +56,10 @@ Well...I carried away with some commands and after that had some problems, but n
 ### 2. Finish [HTML Academy: first two sections](https://htmlacademy.ru)
 
 ![HTML Academy: first two sections](/task_html_css_intro/html-academy.jpg)
+
+### Optional 1. Finish [Hexlet: Basics of HTML and CSS](https://ru.hexlet.io/courses/html)
+
+![Hexlet: Basics of HTML and CSS](/task_html_css_intro/hexlet-html-css.jpg)
 
 ### Describe your impressions about learned materials
 
